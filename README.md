@@ -41,6 +41,12 @@
 
 ---
 
+### 🎧 Now Playing on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gugaeta&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gugaeta&redirect=true)
+
+---
+
 ### 👨‍💻 GitHub Stats
 
 <div align="center">

@@ -1,28 +1,50 @@
-## About Me
+### Hi there, I'm Gustavo Gaeta Turri de Souza- aka _gustavogaeta_ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-👨‍💻 I am a Systems Analysis and Development student at SESI SENAI, passionate about technology and problem-solving.  
-💡 I enjoy exploring how software can improve everyday life and constantly seek opportunities to enhance my skills in programming, system design, and IT project management.  
-🧠 I have a special interest in software development, databases, and user experience, and I’m eager to apply what I learn in real-world projects.  
-🚀 Always learning, always building!
+<a href="mailto:gustavogturri@example.com">
+  <img align="left" alt="Gustavo | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gustavoturri/">
+  <img align="left" alt="Gustavo | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
 
-###
+[![GitHub Gustavo](https://img.shields.io/github/followers/gustavogaeta?label=follow&style=social)](https://github.com/gustavogaeta)
+[![Profile views](https://komarev.com/ghpvc/?username=gustavogaeta&label=Profile%20views&color=0eb45e&style=flat)](https://github.com/gustavogaeta)
+
+---
+
+### 🧔 About Me
+
+- 👨‍💻 Systems Analysis and Development student at SESI SENAI  
+- 💡 Passionate about **software development, databases, and user experience**  
+- 🔭 Currently learning **Python, JavaScript, HTML, CSS** and exploring **IA & Cloud computing**  
+- 🚀 Always building projects and improving my skills
+
+---
+
+### 🛠 Languages and Tools
+
+[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+
+
+
+[vscode]: https://code.visualstudio.com/
+[html]: https://www.w3.org/html/
+[css]: https://www.w3schools.com/css/
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[python]: https://www.python.org/
+
+<br></br>
+
+---
+
+### 👨‍💻 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavogaeta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavogaeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavogaeta&show_icons=true&count_private=true&theme=dracula" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogaeta&layout=compact&theme=dracula" width="360" />
 </div>
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>

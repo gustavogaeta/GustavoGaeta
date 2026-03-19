@@ -16,7 +16,7 @@
 
 - 👨‍💻 Systems Analysis and Development student at SESI SENAI  
 - 💡 Passionate about **software development, databases, and user experience**  
-- 🔭 Currently learning **Python, JavaScript, HTML, CSS** and exploring **IA & Cloud computing**  
+- 🔭 Currently learning **Java, Python, JavaScript, HTML, CSS, PostgreSQL** and exploring **IA & Cloud computing**  
 - 🚀 Always building projects and improving my skills
 
 ---

@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30" />
 </p>
-
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3.org/html/
 [css]: https://www.w3schools.com/css/

@@ -38,9 +38,7 @@
 [css]: https://www.w3schools.com/css/
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python]: https://www.python.org/
-
 <br></br>
-
 ---
 
 ### 👨‍💻 GitHub Stats

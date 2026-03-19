@@ -14,7 +14,8 @@
 
 ### 🧔 About Me
 
-- 👨‍💻 Systems Analysis and Development student at SESI SENAI  
+- 👨‍💻 Systems Analysis and Development student at SESI SENAI
+- 💼 Young apprentice in Support at **Projuris**
 - 💡 Passionate about **software development, databases, and user experience**  
 - 🔭 Currently learning **Java, Python, JavaScript, HTML, CSS, PostgreSQL** and exploring **IA & Cloud computing**  
 - 🚀 Always building projects and improving my skills
